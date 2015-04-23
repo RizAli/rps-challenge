@@ -17,3 +17,8 @@ They wanted me to create a _Rock, Paper, Scissors_ game for them so they can pla
 - Rock beats Scissors
 - Scissors beats Paper
 - Paper beats Rock
+
+## Technology used 
+- ruby
+- RpsApp < Sinatra::Base
+ 
